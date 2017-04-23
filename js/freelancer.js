@@ -1,3 +1,5 @@
+/*Some Housekeeping April 23 2016
+
 /*!
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
